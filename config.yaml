@@ -1,0 +1,15 @@
+baseURL: ""
+disablePathToLower: true
+languageCode: en-us
+title: freyhult.net
+disableDisqusTypes: page
+theme: strata
+
+params:
+  description: " "
+  themeColor: "theme-base-0b"
+  date_format: "%Y%m%d"
+  contact:
+    email: pontus_freyhult@soua.net
+  sidebar:
+    avatar: "avatar.gif"
