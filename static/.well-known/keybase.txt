@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/pontus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://freyhult.net
+  * I am pontus (https://keybase.io/pontus) on keybase.
+  * I have a public key ASBYncC-TgrKCrpORtploFZflPOgVVKXIMPG6rhRxKwzlwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120589dc0be4e0aca0aba4e46da65a0565f94f3a055529720c3c6eab851c4ac33970a",
+      "host": "keybase.io",
+      "kid": "0120589dc0be4e0aca0aba4e46da65a0565f94f3a055529720c3c6eab851c4ac33970a",
+      "uid": "0e0228c2833e6259600a0ec2c2cc8000",
+      "username": "pontus"
+    },
+    "merkle_root": {
+      "ctime": 1582924556,
+      "hash": "f30d00d06e06586d63d8e5d53abdbbf938509a4b92e98a23473a42ab40236d963c991c93434a3356a1a7fc2f5c23f7dea3bafadd218a8631fae234540169f1a3",
+      "hash_meta": "aa7fb9ee9da220a64bbbc8d05979db3dc0669dbfbc87a61e73ac985979ffaa4d",
+      "seqno": 14807287
+    },
+    "service": {
+      "entropy": "2tU55DVu0L4uxfqn3oLwEJyH",
+      "hostname": "freyhult.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1582924565,
+  "expire_in": 504576000,
+  "prev": "a75b8429b25c986a0a7e4c91fc59185cad4d0d11372d9edc98ab3f03b9ab05ae",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWJ3Avk4Kygq6TkbaZaBWX5TzoFVSlyDDxuq4UcSsM5cKp3BheWxvYWTESpcCD8Qgp1uEKbJcmGoKfkyR/FkYXK1NDRE3LZ7cmKs/A7mrBa7EIKWmgmZQ0BBcwgtEuegbvM1JOXwywUl6h32LXs69T/zVAgHCo3NpZ8RABgINoGwD2PIjEM454yjJviXcA/VvrLfGD9fP/TYY7AHoUkokagkZFaDqa/r01/wNMxWZQ2ld4VpmDzIqAPA/BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICr3HVAxI1SwfBsvi/ly9FxxGmwtwYnFrKKx35fgpzV6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pontus
+
+==================================================================
+`
