@@ -2,3 +2,4 @@
 /users https://sal.freyhult.net/users 302
 /.well-known/webfinger* https://sal.freyhult.net/.well-known/webfinger:splat 302
 /authorize_interaction* https://sal.freyhult.net/authorize_interaction:splat 302
+/api/v1* https://sal.freyhult.net/api/v1:splat 302
