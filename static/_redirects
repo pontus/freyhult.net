@@ -1,5 +1,5 @@
-/@* https://sal.freyhult.net/@:splat 307
-/users https://sal.freyhult.net/users 307
-/.well-known/webfinger* https://sal.freyhult.net/.well-known/webfinger:splat 307
-/authorize_interaction* https://sal.freyhult.net/authorize_interaction:splat 307
-/api/v1/* https://sal.freyhult.net/api/v1/:splat 307
+/@* https://sal.freyhult.net/@:splat 301
+/users https://sal.freyhult.net/users 301
+/.well-known/webfinger* https://sal.freyhult.net/.well-known/webfinger:splat 301
+/authorize_interaction* https://sal.freyhult.net/authorize_interaction:splat 301
+/api/v1/* https://sal.freyhult.net/api/v1/:splat 301
