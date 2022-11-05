@@ -4,4 +4,5 @@
 /authorize_interaction* https://sal.freyhult.net/authorize_interaction:splat 301
 /api/v1/apps https://sal.freyhult.net/api/v1/apps 200
 /api/v1/* https://sal.freyhult.net/api/v1/:splat 301
+/oauth/* https://sal.freyhult.net/oauth/:splat 302
 
